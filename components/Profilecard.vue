@@ -24,7 +24,7 @@
         currentLocation: "Osun, Nigeria",
         emailAddress: "Lawalholamilekan@gmail.com",
         socialLinks: [
-          { name: "GitHub", url: "https://github.com/johndoe" },
+          { name: "GitHub", url: "https://github.com/Lekside081/Frontendtaskstage0" },
           { name: "LinkedIn", url: "https://linkedin.com/in/lawal" },
           { name: "Twitter", url: "https://twitter.com/lawal" }
         ],
